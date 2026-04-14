@@ -1,7 +1,7 @@
 /* 1. 전체 배경 */
 body {
     background-image: url('737background.png');
-    background-size: 500px 1100px; /* 요청하신 대로 세로로 더 길게 조정 */
+    background-size: 500px 1000px; /* 요청하신 대로 세로 길이를 약간 축소(1100px -> 1000px) */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
